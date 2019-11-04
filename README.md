@@ -10,5 +10,3 @@ Advanced turtlebot follower based on Kinect and Openni
   - 右肩上方拍手，定点泊车，自动行驶至拍手位置
   - 失去追踪缓慢旋转直至重新追踪成功
   - 使用kobuki声音包，实现声音提醒
-  
- 代码答辩后放出...
